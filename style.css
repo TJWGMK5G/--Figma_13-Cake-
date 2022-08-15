@@ -1514,6 +1514,9 @@ body::-webkit-scrollbar-thumb {
     bottom: 10%;
     left: 0;
   }
+  .main-person-info {
+    margin-bottom: 100px;
+  }
 }
 
 @media (max-width: 1024.99px) {
@@ -1698,6 +1701,18 @@ body::-webkit-scrollbar-thumb {
     margin-top: 50px;
     max-width: none;
     width: 100%;
+  }
+  .main-sketch-wrap {
+    padding-top: 270px;
+  }
+  .main-sketch-wrap-field {
+    margin-bottom: 150px;
+  }
+  .main-sketch-wrap-title {
+    margin-bottom: 70px;
+  }
+  .main-sketch-wrap-btn {
+    margin: 0 auto;
   }
 }
 

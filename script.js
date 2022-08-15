@@ -5,6 +5,6 @@
 let openBtn = document.querySelector("#main-catalog-item-ordersummerid");
 openBtn.addEventListener("click", function () {
   openBtn.classList.add("main-catalog-item-ordersummer");
-  openBtn.style.color = "#fff";
+
   openBtn.textContent = "Нет в наличии!";
 });
